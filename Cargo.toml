@@ -1,5 +1,5 @@
 [package]
-name = "multithreaded-web-server"
+name = "multithreadedwebserver"
 version = "0.1.0"
 authors = ["Grigorii Efimov <Grigorii_Efimov@epam.com>"]
 edition = "2018"
